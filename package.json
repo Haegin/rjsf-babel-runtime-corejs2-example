@@ -12,9 +12,11 @@
   },
   "dependencies": {
     "@rjsf/core": "^5.0.0-beta.8",
+    "@rjsf/utils": "^5.0.0-beta.9",
+    "@rjsf/validator-ajv8": "^5.0.0-beta.9",
     "json-rules-engine-simplified": "^0.1.17",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
-    "rjsf-conditionals": "^1.3.0"
+    "@relayplatform/rjsf-conditionals": "^1.3.0"
   }
 }
